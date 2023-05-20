@@ -6,6 +6,8 @@ In this project, we play a role as a Data Analyst on E-commerce company. We have
 
 ![ER Diagram drawio](https://user-images.githubusercontent.com/91242818/230758495-248bce18-62bf-468c-8069-eca159417c9b.png)
 
+Dataset: https://drive.google.com/file/d/1giqBhW11LO4Th0wXxsl_pVGABtknmg1_/view?usp=sharing
+
 ### Objectives ###
 ----------
 
